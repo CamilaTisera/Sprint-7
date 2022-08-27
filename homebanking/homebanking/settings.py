@@ -53,6 +53,9 @@ INSTALLED_APPS = [
     'cuentas',
     'tarjetas',
     'branches',
+    'Sprint8',
+    'rest_frameworkv',
+    
 ]
 
 MIDDLEWARE = [
