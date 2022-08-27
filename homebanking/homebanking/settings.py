@@ -54,7 +54,7 @@ INSTALLED_APPS = [
     'tarjetas',
     'branches',
     'Sprint8',
-    'rest_frameworkv',
+    'rest_framework',
     
 ]
 
